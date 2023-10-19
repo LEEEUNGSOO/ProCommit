@@ -5,5 +5,6 @@ public class InStreamUser {
 	private double height;
 	private double weight;
 	private String address;
+	private short think;
 
 }
