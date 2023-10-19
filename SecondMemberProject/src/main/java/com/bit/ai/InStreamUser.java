@@ -5,6 +5,7 @@ public class InStreamUser {
 	private int no;
 	private double height;
 	private double weight;
+	private String book;
 
 
 }
